@@ -68,6 +68,11 @@ h2
     color: rgb(3, 94, 94);
 }
 
+.slick-track
+{
+    height: 500px !important;
+}
+
 /* ----------------------------- MEDIA QUERY --------------------------- */
 
 @media(max-width: 1070px)
